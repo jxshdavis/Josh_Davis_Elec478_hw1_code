@@ -1195,7 +1195,8 @@ def predict_Analysis_ALASSO(random_state=42):
 
 
 #TODO: Step-wise approaches (and/or Recursive Feature Elimination)
-prediction_Analysis_RFE()
+# prediction_Analysis_RFE()
+
 
 
 #TODO: Lasso
